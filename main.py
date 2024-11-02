@@ -16,4 +16,3 @@ lista = [1 ,2, 3, 4, 5]
 # Métodos
 listaInvertida = lista.reverse()
 print(lista)
-print(listaInvertida)
